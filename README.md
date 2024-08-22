@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Digital Electronics , Ai & Machine Learning**
   
-- 🌱 I’m currently a **Graphic Design Instructor** 
-
-- 👨‍💻 All of my projects are available at [https://github.com/kkhaledhamed](https://github.com/kkhaledhamed)
+- 👨‍💻 I’m currently a **Graphic Design Instructor** 
 
 - 💬 Ask me about **Digital Electronics & Graphic Design**
 
