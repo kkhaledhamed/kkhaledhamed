@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Digital Electronics, Analog Mixed Signal**
   
-- 👨‍💻 I’m currently a **Graphic Design Instructor** 
+- 👨‍💻 I’m currently a **Graphic Design Instructor & Digital Electronics Instructor** 
 
 - 💬 Ask me about **Digital Electronics & Graphic Design**
 
-- 📫 How to reach me **eng.kkhaledhamed@gmail.com**
+- 📫 How to reach me **khalid1422003123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
