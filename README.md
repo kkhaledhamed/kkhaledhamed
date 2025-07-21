@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkhaledhamed" alt="kkhaledhamed" /></a> </p>
 
-- 🌱 I’m currently learning **Digital Electronics & Analog Mixed Signal**
+- 🌱 I’m currently learning **Digital Electronics**
   
 - 👨‍💻 I’m currently a **Graphic Design Instructor & Digital Electronics Instructor** 
 
