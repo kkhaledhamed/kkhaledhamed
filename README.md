@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Hamed</h1>
-<h3 align="center">A passionate Digital Electronics - IC Design & Verification</h3>
+<h3 align="center">A passionate Digital Electronics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkhaledhamed&label=Profile%20views&color=0e75b6&style=flat" alt="kkhaledhamed" /> </p>
 
